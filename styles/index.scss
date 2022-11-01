@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,800;1,800&display=swap");
+@import "../styles/basic.scss";
+@import "../modules/header/Header.scss";
+@import "../modules/banner/Banner.scss";
+@import "../modules/explore/Explore.scss";
+@import "../modules/liveAnywhere/LiveAnyWhere.scss";
+@import "../modules/largeCard/LargeCard.scss";
+@import "../modules/footer/Footer.scss";
+@import "react-date-range/dist/styles.css"; // main style file
+@import "react-date-range/dist/theme/default.css"; // theme css file
+@import "../modules/SearchLoc/SearchLoc.scss";
+@import "../modules/infoCard/InfoCard.scss";

@@ -1,0 +1,28 @@
+.search_container {
+  padding: 10px 20px;
+  .info {
+    margin-top: 30px;
+  }
+  .button_wrapper {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: -20px;
+    @media (max-width: 768px) {
+      display: none;
+    }
+    .btn {
+      padding: 10px 15px;
+      border: 1px solid rgb(229, 223, 223);
+      margin-left: 20px;
+      border-radius: 20px;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      &:hover {
+        transform: rotateX(20deg);
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+          rgba(0, 0, 0, 0.22) 0px 10px 10px;
+      }
+    }
+  }
+}

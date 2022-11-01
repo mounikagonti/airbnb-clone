@@ -1,0 +1,153 @@
+{
+  "smallImages": [
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "London",
+      "distance": "45-minute drive"
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/5212814/pexels-photo-5212814.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "title": "Manchester",
+      "distance": "4.5-hours drive"
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/12953548/pexels-photo-12953548.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Liverpool",
+      "distance": "4.5-hours drive"
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/3579569/pexels-photo-3579569.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "York",
+      "distance": "4-hours drive"
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/5743994/pexels-photo-5743994.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Cardiff",
+      "distance": "45-minute drive"
+    },
+    {
+      "id": 6,
+      "image": "https://media.istockphoto.com/photos/brkenhead-town-hall-picture-id494340852?b=1&k=20&m=494340852&s=612x612&w=0&h=WeTOqlOB8zdBrVdZcIV6ip49dCYmudLcmPOZflLYS98=",
+      "title": "Birkenhead",
+      "distance": "4.5-hours drive"
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/295824/pexels-photo-295824.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Newquay",
+      "distance": "6-hours drive"
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/7562304/pexels-photo-7562304.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Hove",
+      "distance": "2-hours drive"
+    }
+  ],
+  "bigImages": [
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/6903497/pexels-photo-6903497.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Outdoor gateway"
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/13190741/pexels-photo-13190741.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Unique Stay"
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/9748778/pexels-photo-9748778.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Entire home"
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/235805/pexels-photo-235805.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Pet allowed"
+    }
+  ],
+  "booking": [
+    {
+      "img": "https://images.pexels.com/photos/303328/pexels-photo-303328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "location": "Private room in center of india",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest A- 1 bedroom A- 1 bed A- 1.5 Shared bathrooms A. Wifi A. Kitchen A.free parking A.Washing MAchine",
+      "start": 4.73,
+      "price": "$30 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    },
+    {
+      "img": "https://images.pexels.com/photos/425163/pexels-photo-425163.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "location": "Private room in center of London",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest A- 1 bedroom A- 1 bed A- 1.5 Shared bathrooms A. Wifi A. Kitchen A.free parking A.Washing MAchine",
+      "start": 4.73,
+      "price": "$30 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    },
+    {
+      "img": "https://images.pexels.com/photos/534219/pexels-photo-534219.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "location": "Private room in center of London",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest A- 1 bedroom A- 1 bed A- 1.5 Shared bathrooms A. Wifi A. Kitchen A.free parking A.Washing MAchine",
+      "start": 4.73,
+      "price": "$30 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    },
+    {
+      "img": "https://images.pexels.com/photos/5229733/pexels-photo-5229733.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "location": "Private room in center of London",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest A- 1 bedroom A- 1 bed A- 1.5 Shared bathrooms A. Wifi A. Kitchen A.free parking A.Washing MAchine",
+      "start": 4.73,
+      "price": "$30 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    },
+    {
+      "img": "https://images.pexels.com/photos/683940/pexels-photo-683940.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "location": "Private room in center of London",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest A- 1 bedroom A- 1 bed A- 1.5 Shared bathrooms A. Wifi A. Kitchen A.free parking A.Washing MAchine",
+      "start": 4.73,
+      "price": "$30 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    },
+    {
+      "img": "https://images.pexels.com/photos/569637/pexels-photo-569637.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "location": "Private room in center of London",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest A- 1 bedroom A- 1 bed A- 1.5 Shared bathrooms A. Wifi A. Kitchen A.free parking A.Washing MAchine",
+      "start": 4.73,
+      "price": "$30 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    },
+    {
+      "img": "https://images.pexels.com/photos/5611543/pexels-photo-5611543.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "location": "Private room in center of London",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest A- 1 bedroom A- 1 bed A- 1.5 Shared bathrooms A. Wifi A. Kitchen A.free parking A.Washing MAchine",
+      "start": 4.73,
+      "price": "$30 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    }
+  ]
+}

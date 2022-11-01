@@ -1,0 +1,34 @@
+.banner_container {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .banner_content {
+    position: absolute;
+    margin-bottom: 100px;
+    font-size: 20px;
+    color: #fff;
+  }
+  .flexible {
+    position: absolute;
+    background-color: #ffff;
+    padding: 15px 35px;
+    margin-top: 60px;
+    border-radius: 30px;
+    font-size: 17px;
+    font-weight: bold;
+    color: #3f38ff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    &:hover {
+      // box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+      box-shadow: rgba(240, 46, 170, 0.4) 0px 5px,
+        rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px,
+        rgba(240, 46, 170, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px;
+      transform: scale(100%);
+      // transition-duration: 0.5s;
+    }
+  }
+}
