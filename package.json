@@ -6,7 +6,8 @@
     "dev": "concurrently \"next dev\" \"npm run server\"",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "server": "json-server --watch db.json -p 8080"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
