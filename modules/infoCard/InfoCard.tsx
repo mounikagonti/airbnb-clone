@@ -17,7 +17,7 @@ const InfoCard = () => {
   return (
     <div className="container">
       {bookingData.map((item: any) => (
-        <div className="infoCard_container">
+        <div className="infoCard_container" key={item?.id}>
           <div className="infoImg_wrapper">
             <Image
               src={item?.img}

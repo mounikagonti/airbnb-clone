@@ -73,6 +73,7 @@
   ],
   "booking": [
     {
+      "id": 1,
       "img": "https://images.pexels.com/photos/303328/pexels-photo-303328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "location": "Private room in center of india",
       "title": "Stay at this spacious Edwardian House",
@@ -84,6 +85,7 @@
       "lat": 51.48695
     },
     {
+      "id": 2,
       "img": "https://images.pexels.com/photos/425163/pexels-photo-425163.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
       "location": "Private room in center of London",
       "title": "Stay at this spacious Edwardian House",
@@ -95,6 +97,7 @@
       "lat": 51.48695
     },
     {
+      "id": 3,
       "img": "https://images.pexels.com/photos/534219/pexels-photo-534219.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
       "location": "Private room in center of London",
       "title": "Stay at this spacious Edwardian House",
@@ -106,6 +109,7 @@
       "lat": 51.48695
     },
     {
+      "id": 4,
       "img": "https://images.pexels.com/photos/5229733/pexels-photo-5229733.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
       "location": "Private room in center of London",
       "title": "Stay at this spacious Edwardian House",
@@ -117,6 +121,7 @@
       "lat": 51.48695
     },
     {
+      "id": 5,
       "img": "https://images.pexels.com/photos/683940/pexels-photo-683940.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
       "location": "Private room in center of London",
       "title": "Stay at this spacious Edwardian House",
@@ -128,6 +133,7 @@
       "lat": 51.48695
     },
     {
+      "id": 6,
       "img": "https://images.pexels.com/photos/569637/pexels-photo-569637.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
       "location": "Private room in center of London",
       "title": "Stay at this spacious Edwardian House",
@@ -139,6 +145,7 @@
       "lat": 51.48695
     },
     {
+      "id": 7,
       "img": "https://images.pexels.com/photos/5611543/pexels-photo-5611543.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
       "location": "Private room in center of London",
       "title": "Stay at this spacious Edwardian House",

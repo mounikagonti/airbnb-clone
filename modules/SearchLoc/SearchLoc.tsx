@@ -8,21 +8,18 @@ import InfoCard from "../infoCard/InfoCard";
 
 const SearchLoc = () => {
   const router = useRouter();
-  console.log(router.query);
   const { location, startDate, endDate, noOfGuest }: any = router.query;
-  //   const now = new Date(startDate);
-  //   //   const now = new Date(endDate);
-  //   const formattedStartDate = dateFormat(now, "longDate");
-  //   const formattedEndDate = dateFormat(now, "longDate");
+  console.log(startDate);
+  console.log(endDate);
 
-  const formattedStartDate = format(new Date(startDate), "yyyy-MM-dd");
-  const formattedEndDate = format(new Date(endDate), "dd mmmm yy");
-  const range = `${formattedStartDate} - ${formattedEndDate}`;
+  // const formattedStartDate = format(new Date(startDate), "dd MMMM yy");
+  // const formattedEndDate = format(new Date(endDate), "dd MMMM yy");
+  // const range = `${formattedStartDate} - ${formattedEndDate}`;
 
   return (
     <div className="search_container">
       <div className="info">
-        300+ Stays - {range} - for {noOfGuest} Guests
+        300+ Stays - {startDate} - {endDate} - for {noOfGuest} Guests
       </div>
       <h1>Stays in {location}</h1>
       <div className="button_wrapper">
